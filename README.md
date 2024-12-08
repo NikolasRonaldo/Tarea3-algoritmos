@@ -1,4 +1,4 @@
-PSEUDOCODIGO:
+# PSEUDOCODIGO:
 
 # Inicialización de parámetros
 max_iteraciones <- 5

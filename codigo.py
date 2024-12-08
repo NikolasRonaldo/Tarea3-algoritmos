@@ -182,8 +182,8 @@ pso = PSO(
     funcion=fncMax,
     valoresIniciales=valoresIniciales,
     limites=limites,
-    tamanoGrupo=5,  # popSize
-    maxIter=5,  # MaxIter
+    tamanoGrupo=tamaño_población,  # popSize
+    maxIter=max_iteraciones,  # MaxIter
     random_vector=random_vector,
     mostrarProgreso=True
 )
